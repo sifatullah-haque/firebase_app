@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200501854929",
+    "project_id": "note-taker-34e39",
+    "storage_bucket": "note-taker-34e39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200501854929:android:0abce37e33323c06507bf0",
+        "android_client_info": {
+          "package_name": "com.sifat.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200501854929-ihtcht2e4k4se42p8kgi49h5gtikv56u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHWu94ENLAJAkWRiB32r1Y0HSaoyff9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200501854929-ihtcht2e4k4se42p8kgi49h5gtikv56u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
